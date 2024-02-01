@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_transform_map">
+    <sys_transform_map action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <copy_empty_fields>false</copy_empty_fields>
+        <create_new_record_on_empty_coalesce_fields>false</create_new_record_on_empty_coalesce_fields>
+        <enforce_mandatory_fields>No</enforce_mandatory_fields>
+        <name>x_846092_to_do_to_do_project_transform_map</name>
+        <order>100</order>
+        <run_business_rules>false</run_business_rules>
+        <run_script>false</run_script>
+        <script><![CDATA[(function transformRow(source, target, map, log, isUpdate) {
+
+	// Add your code here
+
+})(source, target, map, log, action==="update");]]></script>
+        <source_table>x_846092_to_do_1704449314343</source_table>
+        <sys_class_name>sys_transform_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-05 10:09:49</sys_created_on>
+        <sys_id>748e062947ab3d10621a73d7826d4321</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_846092_to_do_to_do_project_transform_map</sys_name>
+        <sys_package display_value="To Do" source="x_846092_to_do">58ed4e2947ab3d10621a73d7826d436a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="To Do">58ed4e2947ab3d10621a73d7826d436a</sys_scope>
+        <sys_update_name>sys_transform_map_748e062947ab3d10621a73d7826d4321</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-05 10:09:49</sys_updated_on>
+        <target_table>x_846092_to_do_to_do_project</target_table>
+    </sys_transform_map>
+</record_update>

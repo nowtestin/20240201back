@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="Create To Do Item">a809775e47233110621a73d7826d43b3</sc_cat_item>
+        <sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-08 01:55:51</sys_created_on>
+        <sys_id>da3abf5e47233110621a73d7826d432f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Create To Do Item</sys_name>
+        <sys_package display_value="To Do" source="x_846092_to_do">58ed4e2947ab3d10621a73d7826d436a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="To Do">58ed4e2947ab3d10621a73d7826d436a</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_da3abf5e47233110621a73d7826d432f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-08 01:55:51</sys_updated_on>
+    </sc_cat_item_catalog>
+</record_update>

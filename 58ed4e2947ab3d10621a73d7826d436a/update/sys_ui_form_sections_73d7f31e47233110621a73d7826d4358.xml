@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="73d7f31e47233110621a73d7826d4358" sys_domain="global" table="x_846092_to_do_to_do" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-08 01:45:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>bfd7f31e47233110621a73d7826d43fc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_846092_to_do_to_do" name="x_846092_to_do_to_do" sys_domain="global" view="5bd975bd0fa03200cd674f8ce1050e7f">73d7f31e47233110621a73d7826d4358</sys_ui_form>
+            <sys_ui_section caption="To Do" display_value="To Do" name="x_846092_to_do_to_do" sys_domain="global" view="5bd975bd0fa03200cd674f8ce1050e7f">40463b9a47233110621a73d7826d43d3</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-08 01:45:35</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-08 01:45:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>bbd7f31e47233110621a73d7826d43fd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_846092_to_do_to_do" name="x_846092_to_do_to_do" sys_domain="global" view="5bd975bd0fa03200cd674f8ce1050e7f">73d7f31e47233110621a73d7826d4358</sys_ui_form>
+            <sys_ui_section caption="Progress and Importance" display_value="Progress and Importance" name="x_846092_to_do_to_do" sys_domain="global" view="5bd975bd0fa03200cd674f8ce1050e7f">7fd7f31e47233110621a73d7826d4356</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-08 01:45:35</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-08 01:45:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f7d7371e47233110621a73d7826d4301</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_846092_to_do_to_do" name="x_846092_to_do_to_do" sys_domain="global" view="5bd975bd0fa03200cd674f8ce1050e7f">73d7f31e47233110621a73d7826d4358</sys_ui_form>
+            <sys_ui_section caption="Dates" display_value="Dates" name="x_846092_to_do_to_do" sys_domain="global" view="5bd975bd0fa03200cd674f8ce1050e7f">3bd7f31e47233110621a73d7826d4357</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-08 01:45:35</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_846092_to_do_to_do</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-08 01:45:34</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>73d7f31e47233110621a73d7826d4358</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_846092_to_do_to_do</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="To Do" source="x_846092_to_do">58ed4e2947ab3d10621a73d7826d436a</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="To Do">58ed4e2947ab3d10621a73d7826d436a</sys_scope>
+            <sys_update_name>sys_ui_form_sections_73d7f31e47233110621a73d7826d4358</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-08 01:45:34</sys_updated_on>
+            <sys_user/>
+            <view display_value="User" name="User">5bd975bd0fa03200cd674f8ce1050e7f</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

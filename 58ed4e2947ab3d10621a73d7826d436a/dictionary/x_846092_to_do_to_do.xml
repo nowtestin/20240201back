@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="54519a6d47ab3d10621a73d7826d43a5" label="To Do" max_length="40" name="x_846092_to_do_to_do" type="collection">
+        <element label="Assigned to" max_length="32" name="assigned_to" reference="sys_user" type="reference"/>
+        <element label="Due date" max_length="40" name="due_date" type="glide_date"/>
+        <element label="File upload" max_length="40" name="file_upload" type="file_attachment"/>
+        <element label="Image Test" max_length="40" name="image_test" type="user_image"/>
+        <element choice="3" default="important" label="Importance" max_length="40" name="importance" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Not Important" sequence="0" value="not_important"/>
+                <element inactive_on_update="false" label="Important" sequence="1" value="important"/>
+                <element inactive_on_update="false" label="Very Important" sequence="2" value="very_important"/>
+            </choice>
+        </element>
+        <element choice="3" default="not_started" label="Progress" max_length="40" name="progress" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Not Started" sequence="0" value="not_started"/>
+                <element inactive_on_update="false" label="In Progress" sequence="1" value="in_progress"/>
+                <element inactive_on_update="false" label="Done" sequence="2" value="done"/>
+                <element inactive_on_update="false" label="Canceled" sequence="3" value="canceled"/>
+            </choice>
+        </element>
+        <element label="Project" max_length="32" name="project" reference="x_846092_to_do_to_do_project" type="reference"/>
+        <element label="Send reminder" max_length="40" name="send_reminder" type="boolean"/>
+        <element display="true" label="To do item" max_length="150" name="to_do_item" type="string"/>
+        <element label="Video Test" max_length="40" name="video_test" type="video"/>
+        <index name="index">
+            <element name="assigned_to"/>
+        </index>
+        <index name="index2">
+            <element name="project"/>
+        </index>
+    </element>
+</database>
